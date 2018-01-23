@@ -1,0 +1,7 @@
+Channel: DAHDI/g1/46667241
+Context: debut_svi_fete_des_meres
+Extension: s
+MaxRetries: 1
+RetryTime: 120
+WaitTime: 20
+CallerID: 46667241
